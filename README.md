@@ -23,7 +23,51 @@ enter s.py in cmd on that particular folder or double click on s.py
 
 
 _______________________________________________________________________________________________________________________________________________________________________
+For running auto comments for youtube shorts in localhost
 
+https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
+
+<𝙬𝙖𝙩𝙘𝙝 𝙪𝙥𝙩𝙤 3mins.46sec+ 𝙩𝙝𝙚𝙣 𝙧𝙚𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 𝙝.𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙖𝙨 𝙝.𝙥𝙮 𝙖𝙣𝙙 𝙥𝙖𝙨𝙩𝙚 𝙩𝙝𝙖𝙩 𝙛𝙞𝙡𝙚 𝙩𝙝𝙚𝙧𝙚>
+
+👉𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
+
+or after chrome opens using localhost
+
+in extension on the other location using these
+
+https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
+
+https://youtu.be/c9MAJpax5R0
+
+C:\Users\Hp\AppData\Local\Google\Chrome\Application
+
+in my case chrome location
+
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
+
+in my case
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
+
+then open cmd in that folder paste below 3 lines at a time and hit enter button(in below codes are after watching above video my chrome path location & localohost path)
+
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
+
+chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
+
+short.py
+
+you must login with your 1 accounts for auto comments..
+
+in 11 & 12 line in code change if you needed other comments inside ...
+
+in 19th line change with your required movie video url...
+
+thats all done the url will open in that opened localhost chrome and automatically done the comments to shorts...
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
