@@ -7,6 +7,8 @@ note:-use accounts which dont have 2-factor authentication...
 
 change the cmt text if you needed to your required cmts in 11th line
 
+replace 27th line with youtube shorts...
+
 After download the folder extract it and open cmd and enter Python If You Find Python Version
 
 Then enter pip install undetected_chromedriver in cmd and hit enter button (internet connection will be in on)
