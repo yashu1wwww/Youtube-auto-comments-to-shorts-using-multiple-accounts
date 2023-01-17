@@ -21,6 +21,11 @@ After download the chromedriver(https://chromedriver.chromium.org/downloads extr
 
 enter s.py in cmd on that particular folder or double click on s.py
 
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
 
 👉 YouTube Auto Cmts Using Python https://youtu.be/JJmyzyBl5bE
