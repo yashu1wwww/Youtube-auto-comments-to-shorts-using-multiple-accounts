@@ -1,18 +1,18 @@
 # Youtube-auto-comments-to-shorts
-Youtube auto comments to shorts using selenium with python also in localhost
-
+Youtube auto comments to shorts using multiple accounts
+using selenium with python also in localhost
 
 👉Auto Cmt To YouTube Shorts
 
 https://youtu.be/TyqPz63witk
 
-#Replace Email and Pass in 14 & 15 line and also
+#Replace Email and Pass in 14 & 15 line and also in 269 & 270
 
 note:-use accounts which dont have 2-factor authentication...
 
 change the cmt text if you needed to your required cmts in 11th line
 
-replace 27th line with youtube shorts link...
+replace youtube video shorts in urls.txt file..
 
 After download the folder extract it and open cmd and enter Python If You Find Python Version
 
