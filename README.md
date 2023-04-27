@@ -1,58 +1,48 @@
 # Youtube-auto-comments-to-shorts
-Youtube auto comments to shorts using multiple accounts
-using selenium with python also in localhost
+
+Automate YouTube comments on shorts using multiple accounts with Python and Selenium. This script can be run locally on your machine
 
 👉Auto Cmt To YouTube Shorts
 
 https://youtu.be/TyqPz63witk
 
-#Replace Email and Pass in 14 & 15 line and also in 269 & 270
+Please replace the email and password in lines 14, 15, 269, and 270 with accounts that do not have 2-factor authentication.
 
-note:-use accounts which dont have 2-factor authentication...
+You can change the comment text in line 11 to your desired comment.
 
-change the cmt text if you needed to your required cmts in 11th line
+Replace the YouTube video shorts in the "urls.txt" file.
 
-replace youtube video shorts in urls.txt file..
+After downloading the folder, extract it and open the command prompt. If you have Python installed, enter "python" in the command prompt to check your version. Then enter "pip install undetected_chromedriver" and hit enter. Please ensure you have an internet connection. Next, enter "pip install random" and hit enter, followed by "pip install Proxy" and hit enter.
 
-After download the folder extract it and open cmd and enter Python If You Find Python Version
+After downloading the appropriate chromedriver version for your Chrome browser from https://chromedriver.chromium.org/downloads, extract it to the downloaded folder.
 
-Then enter pip install undetected_chromedriver in cmd and hit enter button (internet connection will be in on)
+Next, open the command prompt and navigate to the downloaded folder. Then, enter "s.py" in the command prompt to run the program or double-click on "s.py".
 
-and enter pip install random in cmd and hit enter button
+_____________________________________________________________________________________________________________________________________________________________
 
-and Pip install Proxy in cmd and hit enter button
-
-After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc
-
-enter s.py in cmd on that particular folder or double click on s.py
-
-
-_______________________________________________________________________________________________________________________________________________________________________
-For running auto comments for youtube shorts in localhost
+To run the script for automated commenting on YouTube shorts in localhost
 
 https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
-<𝙬𝙖𝙩𝙘𝙝 𝙪𝙥𝙩𝙤 3mins.46sec+ 𝙩𝙝𝙚𝙣 𝙧𝙚𝙢𝙖𝙞𝙣𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 𝙝.𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙖𝙨 𝙝.𝙥𝙮 𝙖𝙣𝙙 𝙥𝙖𝙨𝙩𝙚 𝙩𝙝𝙖𝙩 𝙛𝙞𝙡𝙚 𝙩𝙝𝙚𝙧𝙚>
+<𝙒𝙖𝙩𝙘𝙝 𝙪𝙥 𝙩𝙤 3 𝙢𝙞𝙣𝙪𝙩𝙚𝙨 𝙖𝙣𝙙 46 𝙨𝙚𝙘𝙤𝙣𝙙𝙨 𝙤𝙛 𝙩𝙝𝙚 𝙫𝙞𝙙𝙚𝙤, 𝙩𝙝𝙚𝙣 𝙨𝙚𝙡𝙚𝙘𝙩 𝙖𝙣𝙙 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 𝙘𝙤𝙧𝙧𝙚𝙨𝙥𝙤𝙣𝙙𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙤𝙛 𝙩𝙝𝙚 𝙘𝙤𝙙𝙚 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 .𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙞𝙩 𝙖𝙨 "𝙝.𝙥𝙮". 𝙏𝙝𝙞𝙨 𝙬𝙞𝙡𝙡 𝙖𝙡𝙡𝙤𝙬 𝙮𝙤𝙪 𝙩𝙤 𝙚𝙭𝙚𝙘𝙪𝙩𝙚 𝙩𝙝𝙚 𝙨𝙖𝙫𝙚𝙙 𝙘𝙤𝙙𝙚 𝙖𝙨 "𝙝.𝙥𝙮" 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚 𝙩𝙝𝙚 𝙨𝙖𝙢𝙚 𝙧𝙚𝙨𝙪𝙡𝙩>
 
-👉𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
+👉𝙒𝙖𝙩𝙘𝙝 𝙩𝙝𝙞𝙨 𝙫𝙞𝙙𝙚𝙤 𝙖𝙣𝙙 𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙑𝙋𝙉 𝙖𝙣𝙙 𝙧𝙪𝙣 𝙩𝙝𝙚 𝙘𝙤𝙧𝙧𝙚𝙨𝙥𝙤𝙣𝙙𝙞𝙣𝙜 𝙑𝙋𝙉 
 
 https://youtu.be/c9MAJpax5R0
 
-or after chrome opens using localhost
-
-in extension on the other location using these
+After opening Chrome using localhost, you can use the extension from another location.
 
 https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
 
+the location of Chrome is:
+
 C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-in my case chrome location
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
 
 in my case
+
+cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
 
@@ -79,7 +69,7 @@ ________________________________________________________________________________
 
 👉Note:-
 
-👉if your selenium version is in latest version then the code never run
+👉If you have the latest version of Selenium, the code may not run
 
 👉open cmd and
 
