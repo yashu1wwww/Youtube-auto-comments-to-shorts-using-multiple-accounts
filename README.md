@@ -18,52 +18,6 @@ After downloading the appropriate chromedriver version for your Chrome browser f
 
 Next, open the command prompt and navigate to the downloaded folder. Then, enter "s.py" in the command prompt to run the program or double-click on "s.py".
 
-_____________________________________________________________________________________________________________________________________________________________
-
-To run the script for automated commenting on YouTube shorts in localhost
-
-https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
-
-<𝙒𝙖𝙩𝙘𝙝 𝙪𝙥 𝙩𝙤 3 𝙢𝙞𝙣𝙪𝙩𝙚𝙨 𝙖𝙣𝙙 46 𝙨𝙚𝙘𝙤𝙣𝙙𝙨 𝙤𝙛 𝙩𝙝𝙚 𝙫𝙞𝙙𝙚𝙤, 𝙩𝙝𝙚𝙣 𝙨𝙚𝙡𝙚𝙘𝙩 𝙖𝙣𝙙 𝙘𝙤𝙥𝙮 𝙩𝙝𝙚 𝙘𝙤𝙧𝙧𝙚𝙨𝙥𝙤𝙣𝙙𝙞𝙣𝙜 𝙥𝙖𝙧𝙩 𝙤𝙛 𝙩𝙝𝙚 𝙘𝙤𝙙𝙚 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 .𝙥𝙮 𝙨𝙘𝙧𝙞𝙥𝙩 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙞𝙩 𝙖𝙨 "𝙝.𝙥𝙮". 𝙏𝙝𝙞𝙨 𝙬𝙞𝙡𝙡 𝙖𝙡𝙡𝙤𝙬 𝙮𝙤𝙪 𝙩𝙤 𝙚𝙭𝙚𝙘𝙪𝙩𝙚 𝙩𝙝𝙚 𝙨𝙖𝙫𝙚𝙙 𝙘𝙤𝙙𝙚 𝙖𝙨 "𝙝.𝙥𝙮" 𝙖𝙣𝙙 𝙖𝙘𝙝𝙞𝙚𝙫𝙚 𝙩𝙝𝙚 𝙨𝙖𝙢𝙚 𝙧𝙚𝙨𝙪𝙡𝙩>
-
-👉𝙒𝙖𝙩𝙘𝙝 𝙩𝙝𝙞𝙨 𝙫𝙞𝙙𝙚𝙤 𝙖𝙣𝙙 𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙑𝙋𝙉 𝙖𝙣𝙙 𝙧𝙪𝙣 𝙩𝙝𝙚 𝙘𝙤𝙧𝙧𝙚𝙨𝙥𝙤𝙣𝙙𝙞𝙣𝙜 𝙑𝙋𝙉 
-
-https://youtu.be/c9MAJpax5R0
-
-After opening Chrome using localhost, you can use the extension from another location.
-
-https://chrome.google.com/webstore/detail/touch-vpn-secure-and-unli/bihmplhobchoageeokmgbdihknkjbknd?hl=en
-
-the location of Chrome is:
-
-C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir=""(in "enter your localhost path here")
-
-in my case
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
-
-then open cmd in that folder paste below 3 lines at a time and hit enter button(in below codes are after watching above video my chrome path location & localohost path)
-
-cd C:\Users\Hp\AppData\Local\Google\Chrome\Application
-
-chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Users\Hp\Desktop\Bots\Chromedriver\Localhost"
-
-short.py
-
-you must login with your 1 accounts for auto comments..
-
-in 11 & 12 line in code change if you needed other comments inside ...
-
-in 21th line change with your required movie video short url...
-
-thats all done the url will open in that opened localhost chrome and automatically done the comments to shorts...
-
-_______________________________________________________________________________________________________________________________________________________________________
-
 
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
 
