@@ -2,10 +2,6 @@
 
 Automate YouTube comments on shorts using multiple accounts with Python and Selenium. This script can be run locally on your machine
 
-👉Auto Cmt To YouTube Shorts
-
-https://youtu.be/TyqPz63witk
-
 Please replace the email and password in lines 14, 15, 269, and 270 with accounts that do not have 2-factor authentication.
 
 You can change the comment text in line 11 to your desired comment.
