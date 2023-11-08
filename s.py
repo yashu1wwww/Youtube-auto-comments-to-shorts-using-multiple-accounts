@@ -55,7 +55,7 @@ while True:
         time.sleep(4)
         
         counter += 1
-        if counter == 30: #Change the number 30 to however many comments you desire...
+        if counter == 30: #Change the number "30" to however many comments you desire...
             break
         
     except Exception as e:
@@ -110,7 +110,7 @@ while True:
         time.sleep(4)
         
         counter += 1
-        if counter == 30: #Change the number 30 to however many comments you desire...
+        if counter == 30: #Change the number "30" to however many comments you desire...
             break
         
     except Exception as e:
