@@ -4,6 +4,8 @@ Automate YouTube comments on shorts using multiple accounts with Python and Sele
 
 Please replace the email and password in lines 14th and in 69,70th line...
 
+# Use accounts which don't have 2-factor authentication
+
 You can change the comment text in line 11 to your desired comments text that you want...
 
 Replace the YouTube video shorts in the "urls.txt" file.
