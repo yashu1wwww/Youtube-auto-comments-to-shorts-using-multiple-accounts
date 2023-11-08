@@ -1,19 +1,28 @@
 # Youtube-auto-comments-to-shorts
 
-Automate YouTube comments on shorts using multiple accounts with Python and Selenium. This script can be run locally on your machine
+Automate YouTube comments on shorts using multiple accounts with Python and Selenium.
 
-Please replace the email and password in lines 14, 15, 269, and 270 with accounts that do not have 2-factor authentication.
+Please replace the email and password in lines 14th and in 69,70th line...
 
-You can change the comment text in line 11 to your desired comment.
+You can change the comment text in line 11 to your desired comments text that you want...
 
 Replace the YouTube video shorts in the "urls.txt" file.
 
-After downloading the folder, extract it and open the command prompt. If you have Python installed, enter "python" in the command prompt to check your version. Then enter "pip install undetected_chromedriver" and hit enter. Please ensure you have an internet connection. Next, enter "pip install random" and hit enter, followed by "pip install Proxy" and hit enter.
+replace 58th and 113 line with comments how much you want(presently 30 is there)
 
-After downloading the appropriate chromedriver version for your Chrome browser from https://chromedriver.chromium.org/downloads, extract it to the downloaded folder.
+After downloading the folder, extract it and open the command prompt. 
 
-Next, open the command prompt and navigate to the downloaded folder. Then, enter "s.py" in the command prompt to run the program or double-click on "s.py".
+If you have Python installed, enter "python" in the command prompt to check your version. 
 
+Then enter "pip install undetected_chromedriver" and hit enter. Please ensure you have an internet connection. Next, enter "pip install random" and hit enter
+
+After downloading the appropriate chromedriver version for your Chrome browser from https://chromedriver.chromium.org/downloads
+
+extract it to the downloaded folder.
+
+Next, open the command prompt and navigate to the downloaded folder.
+
+Then, enter "s.py" in the command prompt to run the program or double-click on "s.py".
 
 👉Python Install Setup=https://youtu.be/4bUOrMj88Pc
 
