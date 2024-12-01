@@ -6,6 +6,8 @@ Automate YouTube comments on shorts using multiple accounts with Python and Sele
 
 https://github.com/yashu1wwww/500-Youtube-Auto-Comments-For-Youtube-Shorts-Using-Localhost
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Please replace the email and password in lines 14th and in 69,70th line...
 
 # Use accounts which don't have 2-factor authentication
