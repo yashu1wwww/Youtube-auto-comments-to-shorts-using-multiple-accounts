@@ -2,10 +2,6 @@
 
 Automate YouTube comments on shorts using multiple accounts with Python and Selenium.
 
-# If These Code Stop In Middle Then Use Updated..
-
-https://github.com/yashu1wwww/500-Youtube-Auto-Comments-For-Youtube-Shorts-Using-Localhost
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Please replace the email and password in lines 14th and in 69,70th line...
